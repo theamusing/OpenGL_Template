@@ -19,7 +19,7 @@ void main()
     vec3 norm = normalize(Normal);
     // directional light
     vec3 kd = vec3(texture(texture_diffuse1, TexCoords));
-    vec3 ks = vec3(0.5);
+    vec3 ks = vec3(0.2);
     // vec3 ks = vec3(texture(texture_specular1, TexCoords));
 
     FragColor = vec4(calculateLight(WorldPos, norm, normalize(cameraPos-WorldPos), kd, ks), 1.0);
