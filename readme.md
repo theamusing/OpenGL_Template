@@ -2,8 +2,10 @@
 
 <img src="resources/images/1.png" alt="Example Image" width="50%" height="50%">
 
+[中文版本 readme](readme_cn.md)
+
 ## how to build
-This project is for VScode + MinGW so you can get rid of Visual Studio :);
+This project is for VScode + MinGW so you can get rid of Visual Studio :)
 
 You'll need [MinGW](https://code.visualstudio.com/docs/cpp/config-mingw) and [CMake](https://code.visualstudio.com/docs/cpp/cmake-linux) to build and compile your project. Check VScode Document for more information.
 

@@ -2,8 +2,10 @@
 
 <img src="resources/images/1.png" alt="Example Image" width="50%" height="50%">
 
+[English Version readme](readme.md)
+
 ## 如何构建
-这个项目适用于 VScode + MinGW，从此告别 Visual Studio :);
+这个项目适用于 VScode + MinGW，从此告别 Visual Studio :)
 
 你需要用到 [MinGW](https://code.visualstudio.com/docs/cpp/config-mingw) 和 [CMake](https://code.visualstudio.com/docs/cpp/cmake-linux) 来构建和编译这个项目。更多信息请查看 VScode 文档。
 
